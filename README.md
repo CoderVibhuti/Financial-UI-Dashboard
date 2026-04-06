@@ -2,8 +2,6 @@
 
 A clean, interactive finance dashboard built for the Zorvyn Frontend Developer Intern screening assignment.
 
-# Finflow — Finance Dashboard UI
-
 **Live Demo:** [https://financialuidashboard.vercel.app](https://financialuidashboard.vercel.app)
 
 ## Live Preview
